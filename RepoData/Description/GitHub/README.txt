@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+⚡️🇬⚡️ History of Google service outages. A Google Outage tracker. https://github.com/seanpm2001/DeGoogle-your-Life/
