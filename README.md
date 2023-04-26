@@ -1,406 +1,1413 @@
 
 ***
 
-# <projectName>
+# Google Outage History
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
-
-# By:
-
-<!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg) !-->
-
-## [Seanpm2001](https://github.com/seanpm2001/), [<developerName>](https://github.com/<developerName>/) Et; Al.
-
-
-### Top
-
-# `README.md`
+This file hopes to document the full history of Google outages.
 
 ***
 
-## Read this article in a different language
+## 1998
 
-**Sorted by:** `A-Z`
+### 1998 January
 
-[Sorting options unavailable](https://github.com/<developerName>/<repoName>)
+Google does not exist yet.
 
-( [af Afrikaans](/.github/README_AF.md) Afrikaans | [sq Shqiptare](/.github/README_SQ.md) Albanian | [am አማርኛ](/.github/README_AM.md) Amharic | [ar عربى](/.github/README_AR.md) Arabic | [hy հայերեն](/.github/README_HY.md) Armenian | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani | [eu Euskara](/.github/README_EU.md) Basque | [be Беларуская](/.github/README_BE.md) Belarusian | [bn বাংলা](/.github/README_BN.md) Bengali | [bs Bosanski](/.github/README_BS.md) Bosnian | [bg български](/.github/README_BG.md) Bulgarian | [ca Català](/.github/README_CA.md) Catalan | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano | [ny Chichewa](/.github/README_NY.md) Chichewa | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) | [co Corsu](/.github/README_CO.md) Corsican | [hr Hrvatski](/.github/README_HR.md) Croatian | [cs čeština](/.github/README_CS.md) Czech | [da dansk](README_DA.md) Danish | [nl Nederlands](/.github/README_NL.md) Dutch | [**en-us English**](/.github/README.md) English |  [EO Esperanto](/.github/README_EO.md) Esperanto | [et Eestlane](/.github/README_ET.md) Estonian | [tl Pilipino](/.github/README_TL.md) Filipino | [fi Suomalainen](/.github/README_FI.md) Finnish |  [fr français](/.github/README_FR.md) French | [fy Frysk](/.github/README_FY.md) Frisian | [gl Galego](/.github/README_GL.md) Galician | [ka ქართველი](/.github/README_KA) Georgian | [de Deutsch](/.github/README_DE.md) German | [el Ελληνικά](/.github/README_EL.md) Greek | [gu ગુજરાતી](/.github/README_GU.md) Gujarati | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole | [ha Hausa](/.github/README_HA.md) Hausa | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian | [he עִברִית](/.github/README_HE.md) Hebrew | [hi हिन्दी](/.github/README_HI.md) Hindi | [hmn Hmong](/.github/README_HMN.md) Hmong | [hu Magyar](/.github/README_HU.md) Hungarian | [is Íslenska](/.github/README_IS.md) Icelandic | [ig Igbo](/.github/README_IG.md) Igbo | [id bahasa Indonesia](/.github/README_ID.md) Icelandic | [ga Gaeilge](/.github/README_GA.md) Irish | [it Italiana/Italiano](/.github/README_IT.md) | [ja 日本語](/.github/README_JA.md) Japanese | [jw Wong jawa](/.github/README_JW.md) Javanese | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada | [kk Қазақ](/.github/README_KK.md) Kazakh | [km ខ្មែរ](/.github/README_KM.md) Khmer | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda | [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) | [ko-north 문화어](README_KO_NORTH.md) Korean (North) (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) | [ky Кыргызча](/.github/README_KY.md) Kyrgyz | [lo ລາວ](/.github/README_LO.md) Lao | [la Latine](/.github/README_LA.md) Latin | [lt Lietuvis](/.github/README_LT.md) Lithuanian | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish | [mk Македонски](/.github/README_MK.md) Macedonian | [mg Malagasy](/.github/README_MG.md) Malagasy | [ms Bahasa Melayu](/.github/README_MS.md) Malay | [ml മലയാളം](/.github/README_ML.md) Malayalam | [mt Malti](/.github/README_MT.md) Maltese | [mi Maori](/.github/README_MI.md) Maori | [mr मराठी](/.github/README_MR.md) Marathi | [mn Монгол](/.github/README_MN.md) Mongolian | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) | [ne नेपाली](/.github/README_NE.md) Nepali | [no norsk](/.github/README_NO.md) Norwegian | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) | [ps پښتو](/.github/README_PS.md) Pashto | [fa فارسی](/.github/README_FA.md) |Persian  [pl polski](/.github/README_PL.md) Polish | [pt português](/.github/README_PT.md) Portuguese | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian | [ru русский](/.github/README_RU.md) Russian | [sm Faasamoa](/.github/README_SM.md) Samoan | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic | [sr Српски](/.github/README_SR.md) Serbian | [st Sesotho](/.github/README_ST.md) Sesotho | [sn Shona](/.github/README_SN.md) Shona | [sd سنڌي](/.github/README_SD.md) Sindhi | [si සිංහල](/.github/README_SI.md) Sinhala | [sk Slovák](/.github/README_SK.md) Slovak | [sl Slovenščina](/.github/README_SL.md) Slovenian | [so Soomaali](/.github/README_SO.md) Somali | [[es en español](/.github/README_ES.md) Spanish | [su Sundanis](/.github/README_SU.md) Sundanese | [sw Kiswahili](/.github/README_SW.md) Swahili | [sv Svenska](/.github/README_SV.md) Swedish | [tg Тоҷикӣ](/.github/README_TG.md) Tajik | [ta தமிழ்](/.github/README_TA.md) Tamil | [tt Татар](/.github/README_TT.md) Tatar | [te తెలుగు](/.github/README_TE.md) Telugu | [th ไทย](/.github/README_TH.md) Thai | [tr Türk](/.github/README_TR.md) Turkish | [tk Türkmenler](/.github/README_TK.md) Turkmen | [uk Український](/.github/README_UK.md) Ukrainian | [ur اردو](/.github/README_UR.md) Urdu | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur | [uz O'zbek](/.github/README_UZ.md) Uzbek | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese | [cy Cymraeg](/.github/README_CY.md) Welsh | [xh isiXhosa](/.github/README_XH.md) Xhosa | [yi יידיש](/.github/README_YI.md) Yiddish | [yo Yoruba](/.github/README_YO.md) Yoruba | [zu Zulu](/.github/README_ZU.md) Zulu ) Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
+### 1998 February
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/<developerName>/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+Google does not exist yet.
 
-Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't the intended page. You will be redirected to the [.github folder](/.github/) of this project, where the README translations are hosted.
+### 1998 March
 
-Translations are currently done with Bing translate and DeepL. Support for Google Translate translations is coming to a close due to privacy concerns.
+Google does not exist yet.
 
-***
+### 1998 April
 
-# Index
+Google does not exist yet.
 
-[00.0 - Top](#Top)
+### 1998 May
 
-> [00.1 - Title](#<projectName>)
+Google does not exist yet.
 
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+### 1998 June
 
-> [00.3 - Index](#Index)
+Google does not exist yet.
 
-[01.0 - Description](#RepositoryName)
+### 1998 July
 
-[02.0 - About](#About)
+Google does not exist yet.
 
-[03.0 - Wiki](#Wiki)
+### 1998 August
 
-[04.0 - History](#History)
+Google does not exist yet.
 
-> [04.1 - Pre-history](#Pre-history)
+### 1998 September
 
-> [04.2 - Alpha History](#Alpha-history)
+> **Note** Google was founded on 1998, September 4th
 
-> [04.3 - Beta History](#Beta-history)
+No outages reported.
 
-> [04.4 - Modern History](#Modern-history)
+### 1998 October
 
-[05.0 - Copying](#Copying)
+This section is empty and incomplete. You can help by expanding it!
 
-[06.0 - Credits](#Credits)
+### 1998 November
 
-[07.0 - Installation](#Installation)
+This section is empty and incomplete. You can help by expanding it!
 
-[08.0 - Version history](#Version-history)
+### 1998 December
 
-[09.0 - Version history](#Version-history)
-
-[10.0 - Software status](#Software-status)
-
-[11.0 - Sponsor info](#Sponsor-info)
-
-[12.0 - Contributers](#Contributers)
-
-[13.0 - Issues](#Issues)
-
-> [13.1 - Current issues](#Current-issues)
-
-> [13.2 - Past issues](#Past-issues)
-
-> [13.3 - Past pull requests](#Past-pull-requests)
-
-> [13.4 - Active pull requests](#Active-pull-requests)
-
-[14.0 - Resources](#Resources)
-
-[15.0 - Contributing](#Contributing)
-
-[16.0 - About README](#About-README)
-
-[17.0 - README Version history](#README-version-history)
-
-[18.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [18.9 - End of file](#EOF)
+This section is empty and incomplete. You can help by expanding it!
 
 ***
 
-# <repoName>
-<repo_description>
+## 1999
+
+### 1999 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 1999 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 1999 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 1999 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 1999 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 1999 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 1999 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 1999 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 1999 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 1999 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 1999 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 1999 December
+
+This section is empty and incomplete. You can help by expanding it!
 
 ***
 
-## About
+## 2000
 
-See above. <extendedRepoDescription>
+### 2000 January
 
-***
+This section is empty and incomplete. You can help by expanding it!
 
-## Wiki
+### 2000 February
 
-[Click/tap here to view this projects Wiki](https://github.com/<developerName>/<repoName>/wiki)
+This section is empty and incomplete. You can help by expanding it!
 
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+### 2000 March
 
-***
+This section is empty and incomplete. You can help by expanding it!
 
-## History
+### 2000 April
 
-Write about this projects history here.
+This section is empty and incomplete. You can help by expanding it!
 
-### Pre-history
+### 2000 May
 
-No pre-history to show for this project.
+This section is empty and incomplete. You can help by expanding it!
 
-### Alpha history
+### 2000 June
 
-No Alpha history to show for this project.
+This section is empty and incomplete. You can help by expanding it!
 
-### Beta history
+### 2000 July
 
-No Beta history to show for this project.
+This section is empty and incomplete. You can help by expanding it!
 
-### Modern history
+### 2000 August
 
-No Modern history to show for this project.
+This section is empty and incomplete. You can help by expanding it!
 
-***
+### 2000 September
 
-## Copying
+This section is empty and incomplete. You can help by expanding it!
 
-View the copying license for this project [here](/COPYING) (if you haven't built the project yet with the makefile, here is the original link: [COPYINGL](/COPYINGL)
+### 2000 October
 
-Please note that you also have to follow the rules of the GNU General Public License v3 (GPL3) which you can view [here](/LICENSE.txt)
+This section is empty and incomplete. You can help by expanding it!
 
-***
+### 2000 November
 
-## Credits
+This section is empty and incomplete. You can help by expanding it!
 
-View the credits file for this project and see the people who got together to make this project by [clicking/tapping here](/CREDITS)
+### 2000 December
 
-***
-
-## Installation
-
-View the installation instructions file for this project [here](/INSTALL)
-
-Requirements: Read the instructions for more info, and get the latest up-to-date instructions [here](https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de)
+This section is empty and incomplete. You can help by expanding it!
 
 ***
 
-## Sponsor info
+## 2001
 
-![SponsorButton.png](/SponsorButton.png)
+### 2001 January
 
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors/)
+This section is empty and incomplete. You can help by expanding it!
 
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
+### 2001 February
 
-Try it out! The sponsor button is right up next to the watch/unwatch button.
+This section is empty and incomplete. You can help by expanding it!
 
-***
+### 2001 March
 
-## Version history
+This section is empty and incomplete. You can help by expanding it!
 
-**Version history currently unavailable**
+### 2001 April
 
-**No other versions listed**
+This section is empty and incomplete. You can help by expanding it!
 
-***
+### 2001 May
 
-## Software status
+This section is empty and incomplete. You can help by expanding it!
 
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
+### 2001 June
 
-![DRM-free_label.en.svg](/DRM-free_label.en.svg)
+This section is empty and incomplete. You can help by expanding it!
 
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
+### 2001 July
 
-I am using the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+This section is empty and incomplete. You can help by expanding it!
 
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
+### 2001 August
 
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label/)
+This section is empty and incomplete. You can help by expanding it!
 
-***
+### 2001 September
 
-## Contributers
+This section is empty and incomplete. You can help by expanding it!
 
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
+### 2001 October
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of Yr, DoW, Month, DoM, at ##:## a/pm)
+This section is empty and incomplete. You can help by expanding it!
 
-> * 2. No other contributers.
+### 2001 November
 
-***
+This section is empty and incomplete. You can help by expanding it!
 
-## Issues
+### 2001 December
 
-### Current issues
-
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+This section is empty and incomplete. You can help by expanding it!
 
 ***
 
-## Resources
+## 2002
 
-Here are some other resources for this project:
+### 2002 January
 
-[Project language file A](PROJECT_LANG_1.<fileExtensionForProgrammingLanguage>)
+This section is empty and incomplete. You can help by expanding it!
 
-[Join the discussion on GitHub](https://github.com/<developerName>/<repoName>/discussions)
+### 2002 February
 
-No other resources at the moment.
+This section is empty and incomplete. You can help by expanding it!
 
-***
+### 2002 March
 
-## Contributing
+This section is empty and incomplete. You can help by expanding it!
 
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
+### 2002 April
 
-[Click/tap here to view the contributing rules for this project](/CONTRIBUTING.md)
+This section is empty and incomplete. You can help by expanding it!
 
-***
+### 2002 May
 
-## About README
+This section is empty and incomplete. You can help by expanding it!
 
-**File type:** `Markdown Document (*.md *.mkd *.markdown)`
+### 2002 June
 
-**File version:** `0.1.6 (Monday, August 23rd 2021 at 6:37 pm)`
+This section is empty and incomplete. You can help by expanding it!
 
-**Line count (including blank lines and compiler line):** `0,407`
+### 2002 July
 
-***
+This section is empty and incomplete. You can help by expanding it!
 
-## README version history
+### 2002 August
 
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+This section is empty and incomplete. You can help by expanding it!
 
-> Changes:
+### 2002 September
 
-> * Started the file
+This section is empty and incomplete. You can help by expanding it!
 
-> * Added the title section
+### 2002 October
 
-> * Added the index
+This section is empty and incomplete. You can help by expanding it!
 
-> * Added the about section
+### 2002 November
 
-> * Added the Wiki section
+This section is empty and incomplete. You can help by expanding it!
 
-> * Added the version history section
+### 2002 December
 
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-**ITERATION 5**
-
-> * Updated the title section
-
-> * Updated the index
-
-> * Added the history section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-**ITERATION 6**
-
-> * Updated the title section
-
-> * Fixed and update template links
-
-> * Updated the index
-
-> * Added the copying section
-
-> * Added the credits section
-
-> * Added the installation section
-
-> * Updated the resources section
-
-> * Updated the contributors section
-
-> * Added the technical notes section
-
-> * Updated the footer
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
+This section is empty and incomplete. You can help by expanding it!
 
 ***
 
-### You have reached the end of the README file
+## 2003
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) )
+### 2003 January
 
-### EOF
+This section is empty and incomplete. You can help by expanding it!
+
+### 2003 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2003 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2003 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2003 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2003 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2003 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2003 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2003 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2003 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2003 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2003 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2004
+
+### 2004 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2004 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2004 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2004 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2004 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2004 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2004 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2004 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2004 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2004 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2004 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2004 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2005
+
+### 2005 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2005 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2005 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2005 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2005 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2005 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2005 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2005 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2005 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2005 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2005 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2005 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2006
+
+### 2006 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2006 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2006 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2006 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2006 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2006 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2006 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2006 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2006 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2006 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2006 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2006 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2007
+
+### 2007 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2007 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2007 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2007 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2007 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2007 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2007 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2007 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2007 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2007 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2007 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2007 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2008
+
+### 2008 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2008 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2008 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2008 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2008 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2008 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2008 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2008 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2008 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2008 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2008 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2008 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2009
+
+### 2009 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2009 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2009 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2009 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2009 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2009 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2009 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2009 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2009 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2009 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2009 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2009 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2010
+
+### 2010 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2010 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2010 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2010 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2010 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2010 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2010 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2010 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2010 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2010 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2010 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2010 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2011
+
+### 2011 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2011 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2011 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2011 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2011 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2011 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2011 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2011 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2011 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2011 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2011 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2011 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2012
+
+### 2012 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2012 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2012 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2012 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2012 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2012 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2012 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2012 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2012 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2012 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2012 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2012 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2013
+
+### 2013 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2013 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2013 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2013 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2013 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2013 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2013 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2013 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2013 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2013 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2013 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2013 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2014
+
+### 2014 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2014 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2014 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2014 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2014 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2014 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2014 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2014 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2014 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2014 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2014 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2014 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2015
+
+### 2015 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2015 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2015 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2015 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2015 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2015 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2015 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2015 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2015 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2015 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2015 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2015 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2016
+
+### 2016 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2016 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2016 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2016 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2016 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2016 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2016 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2016 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2016 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2016 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2016 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2016 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2017
+
+### 2017 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2017 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2017 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2017 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2017 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2017 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2017 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2017 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2017 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2017 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2017 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2017 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2018
+
+### 2018 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2018 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2018 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2018 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2018 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2018 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2018 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2018 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2018 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2018 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2018 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2018 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2019
+
+### 2019 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2019 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2019 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2019 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2019 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2019 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2019 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2019 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2019 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2019 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2019 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2019 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2020
+
+### 2020 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2020 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2020 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2020 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2020 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2020 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2020 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2020 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2020 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2020 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2020 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2020 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2021
+
+### 2021 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2021 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2021 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2021 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2021 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2021 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2021 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2021 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2021 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2021 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2021 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2021 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2022
+
+### 2022 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2022 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2022 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2022 April
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2022 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2022 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2022 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2022 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2022 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2022 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2022 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2022 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## 2023
+
+### 2023 January
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2023 February
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2023 March
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2023 April
+
+> **Warning** To prevent link rot, these pages need to be crawled by the Wayback machine, and linked here.
+
+#### Outages:
+
+1. https://assistant.google.com/ - ~3 days - 1 week (1 total outage)
+2. https://google.com - ~1 hour (1 total outage)
+3. https://play.google.com - ~3+ hours (1 total outage)
+
+##### 2023.04.12 -> 2023.04.14 (multiple days) Google Assistant outage: radio disabled
+
+`assistant.google.com` went partially down for a while. Only the ability to listen to radio was down, the rest of the program was functional.
+
+1 source says the outage was 3 days, 1 says the outage was a week long, and 1 says it was longer. None of them deny that there was an outage shorter than 3 days. Based on the time of the news posts, I assume the outage lasted at least 2 days
+
+###### Sources for 2023.04.12
+
+1. [https://9to5google.com/2023/04/12/google-assistant-radio-stations/](https://9to5google.com/2023/04/12/google-assistant-radio-stations/)
+2. [https://radioink.com/2023/04/14/google-assistant-radio-streams-return/](https://radioink.com/2023/04/14/google-assistant-radio-streams-return/)
+3. [https://radioink.com/2023/04/12/google-assistant-outage-blocks-radio-streams/](https://radioink.com/2023/04/12/google-assistant-outage-blocks-radio-streams/)
+4. [https://www.androidpolice.com/google-assistant-radio-playback-bug-fixed/](https://www.androidpolice.com/google-assistant-radio-playback-bug-fixed/)
+
+##### 2023.04.18 Google search outage (1+ hour)
+
+`google.com` went down globally for about 1 hour on this day.
+
+###### Sources for 2023.04.18
+
+1. [https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/](https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/)
+2. [https://gulfnews.com/business/google-search-down-outage-prevents-users-from-seeing-search-results-1.1681873204197](https://gulfnews.com/business/google-search-down-outage-prevents-users-from-seeing-search-results-1.1681873204197)
+3. [https://www.reuters.com/technology/google-down-more-than-12000-us-users-downdetector-2023-04-19/](https://www.reuters.com/technology/google-down-more-than-12000-us-users-downdetector-2023-04-19/)
+4. [https://www.gizbot.com/internet/news/did-you-know-google-search-was-down-for-a-brief-period-today-085083.html](https://www.gizbot.com/internet/news/did-you-know-google-search-was-down-for-a-brief-period-today-085083.html)
+
+##### 2023.04.24 Google Play global outage 3+ hours
+
+`play.google.com` went down globally for over 3 hours on this day. Android/ChromeOS users could not update, download, or install applications on their devices during this time.
+
+###### Sources for 2023.04.24
+
+1. [https://www.msn.com/en-in/money/technology/google-play-store-down-for-many-users-across-the-globe-android-users-not-able-to-download-apps/ar-AA1aiFBg](https://www.msn.com/en-in/money/technology/google-play-store-down-for-many-users-across-the-globe-android-users-not-able-to-download-apps/ar-AA1aiFBg)
+2. [https://news.abplive.com/technology/google-play-down-outage-global-download-search-apps-issue-affected-1597841](https://news.abplive.com/technology/google-play-down-outage-global-download-search-apps-issue-affected-1597841)
+3. [https://indianexpress.com/article/technology/tech-news-technology/google-play-store-down-8574510/](https://indianexpress.com/article/technology/tech-news-technology/google-play-store-down-8574510/)
+4. [https://inshorts.com/en/news/google-play-down-for-thousands-of-android-users-worldwide-1682410131175](https://inshorts.com/en/news/google-play-down-for-thousands-of-android-users-worldwide-1682410131175)
+
+### 2023 May
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2023 June
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2023 July
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2023 August
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2023 September
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2023 October
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2023 November
+
+This section is empty and incomplete. You can help by expanding it!
+
+### 2023 December
+
+This section is empty and incomplete. You can help by expanding it!
+
+***
+
+## Goals
+
+To add: Data related to this [https://en.wikipedia.org/wiki/Google_services_outages?useskin=monobook](https://en.wikipedia.org/wiki/Google_services_outages?useskin=monobook) and every Google outage ever recorded.
+
+***
+
+**File version:** `1 (2023, Wednesday, April 26th at 2:31 pm PST)`
 
 ***
